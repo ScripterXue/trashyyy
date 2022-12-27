@@ -1,0 +1,29 @@
+  game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(
+                "your dad left when he saw this battle 💀",
+                "All"
+            )
+            wait(1)
+            game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(
+                "acc you should quit g",
+                "All"
+            )
+            wait(1)
+            game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(
+                "comparing me and you is like comparing an ant to a god 💀💀",
+                "All"
+            )
+            wait(1)
+            game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(
+                "delete roblox bro youre better without it ❌❌",
+                "All"
+            )
+            wait(1)
+            game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(
+                "bro was born to be dogged on 💀💀💀",
+                "All"
+            )
+            wait(1)
+            game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(
+                "yo ancestors laughin at u 🤣🤣🤣",
+                "All"
+            )
